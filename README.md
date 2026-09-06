@@ -1,104 +1,125 @@
 <div align="center">
 
-# 👋 Hello, I'm Khan Abdullah Al Mamun
+<!-- Dark Background Container -->
+<table>
+<tr>
+<td bgcolor="#0d1117" align="center">
 
-### Computer Science & Engineering Student | Developer | Tech Enthusiast
+<br>
+
+<!-- Programming Languages & Tools -->
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
+
+</div>
+
+<br>
+
+<!-- Pac-Man Contribution Graph -->
+<p align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg?v=2"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg?v=2"
+    />
+
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg?v=2"
+    />
+
+  </picture>
+
+</p>
+
+<br>
+
+<!-- Portfolio -->
+<div align="center">
 
 <p>
-  <a href="https://github.com/mamun-khan77">
-    <img src="https://img.shields.io/badge/GitHub-mamun--khan77-black?style=for-the-badge&logo=github" />
+  <strong>Portfolio:</strong>
+  <a href="https://www.mamun.com" target="_blank">
+    www.aajubair.me
   </a>
 </p>
 
----
+</div>
 
-## 💻 Languages & Technologies
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs,js,ts,html,css,bootstrap,django,nodejs,react,nextjs,mysql,mongodb,git,github,vscode,figma&perline=10" />
-</p>
-
----
-
-## 🐍 Pac-Man Contribution Graph
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg"
-    alt="Pac-Man Contribution Graph"
-  />
-
-</picture>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mamun-khan77&show_icons=true&theme=dark&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-khan77&theme=dark&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</p>
-
----
-
-## 🚀 Projects
-
-- 🏋️ **Rigan Fitness Studio** — Gym Management System
-- 🩺 **Smart Doctor Recommendation System**
-- 🧠 **Explainable Machine Learning for PCOS Prediction**
-- 🎬 **Movie Ticket Booking System**
-- 🛒 **Online Shopping & Inventory System**
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Computer Science & Engineering Student
-- 💻 Software & Web Development Enthusiast
-- 🤖 Interested in AI & Machine Learning
-- 🔐 Interested in Cyber Security
-- 🌐 Passionate about Web Technologies
-- 📚 Always learning and building new projects
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/mamun-khan77">
-  <img src="https://img.shields.io/badge/GitHub-mamun--khan77-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-### ⭐ Thanks for visiting my profile!
+</td>
+</tr>
+</table>
 
 </div>
