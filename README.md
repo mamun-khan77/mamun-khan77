@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mamun Khan
+#  Hi, I'm Mamun Khan
 
 ### Computer Science & Engineering Student | Developer | Tech Enthusiast
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 👾 Pac-Man Contribution Graph
+##  Pac-Man Contribution Graph
 
 <img
   src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg"
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mamun-khan77&show_icons=true&theme=dark" />
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - 🏋️ Rigan Fitness Studio — Gym Management System
 - 🩺 Smart Doctor Recommendation System
@@ -58,7 +58,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://github.com/mamun-khan77">
