@@ -31,6 +31,36 @@
 
 ##  Pac-Man Contribution Graph
 
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg"
+  />
+
+</picture>
+
+</div>
+
+
+
+
+
+
+
+
 <img
   src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg"
   alt="Pac-Man Contribution Graph"
