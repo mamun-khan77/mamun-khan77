@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi, I'm Mamun Khan
+#  Hello, I'm Khan Abdullah AL Mamun
 
 ### Computer Science & Engineering Student | Developer | Tech Enthusiast
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
