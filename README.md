@@ -46,5 +46,5 @@
 
 </div>
 <div align="center">
- <p><strong>Portfolio:</strong> <a href="https://mamunkh.vercel.app/" target="_blank">www.aajubair.me</a></p>
+ <p><strong>Portfolio:</strong> <a href="https://mamunkh.vercel.app/" target="_blank">mamunkh.vercel.app</a></p>
 </div>
