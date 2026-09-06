@@ -1,37 +1,69 @@
-## Hi there 👋
-
-<!--
-**mamun-khan77/mamun-khan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg"
-  />
+# 👋 Hi, I'm Mamun Khan
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg"
-  />
+### Computer Science & Engineering Student | Developer | Tech Enthusiast
 
-  <img
-    alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph.svg"
-  />
+<p>
+  <a href="https://github.com/mamun-khan77">
+    <img src="https://img.shields.io/badge/GitHub-mamun--khan77-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-</picture>
+---
+
+## 🛠️ Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<img
+  src="https://raw.githubusercontent.com/mamun-khan77/mamun-khan77/output/pacman-contribution-graph-dark.svg"
+  alt="Pac-Man Contribution Graph"
+/>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mamun-khan77&show_icons=true&theme=dark" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamun-khan77&theme=dark" />
+
+---
+
+## 🚀 Projects
+
+- 🏋️ Rigan Fitness Studio — Gym Management System
+- 🩺 Smart Doctor Recommendation System
+- 🧠 Explainable Machine Learning for PCOS Prediction
+- 🎬 Movie Ticket Booking System
+- 🛒 Online Shopping & Inventory System
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/mamun-khan77">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </div>
