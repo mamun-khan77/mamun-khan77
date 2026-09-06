@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hello, I'm Khan Abdullah AL Mamun
+#  Hello, I'm Khan Abdullah Al Mamun
 
 ### Computer Science & Engineering Student | Developer | Tech Enthusiast
 
